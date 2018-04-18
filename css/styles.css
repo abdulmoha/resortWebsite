@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+    font-size: 40px;
+    color:#000
+
+}
+
+p{text-align: center;
+  font-family: monospace;
+  font-size: 30px;
+  font-style: normal;
+  color: #eb8787;
+
+
+}
+
+ul{
+  position: relative;
+  top:200px;
+  bottom: auto;
+
+}
+li{
+  display: inline-block;
+  color:white;
+
+}
+
+body{
+  background-color:white;
+  background-image:url("../img/wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
