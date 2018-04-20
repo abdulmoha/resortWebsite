@@ -1,18 +1,18 @@
-#Resort Website
+# Resort Website
 
 
-###Authors
+### Authors
 [Ahmed Mohamed](https://github.com/abdulmoha)
 
 
-####Project setup instructions
+#### Project setup instructions
 To start using this project use the following commands;
 1.git clone https://github.com/abdulmoha/resortWebsite
 1.cd resortWebsite
 1.atom .
 1.code . [//]: # (this is if Visual Studio Code is your preferred text editor)
 
-####License Info
+#### License Info
 MIT License
 
 copyright (c) 2018 Ahmed Mohamed
