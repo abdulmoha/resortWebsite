@@ -7,10 +7,10 @@
 
 #### Project setup instructions
 To start using this project use the following commands;
-1.git clone https://github.com/abdulmoha/resortWebsite
-1.cd resortWebsite
-1.atom .
-1.code . [//]: # (this is if Visual Studio Code is your preferred text editor)
+- `git clone https://github.com/abdulmoha/resortWebsite`
+- `resortWebsite`
+- `atom .``
+- `code . [//]: # (this is if Visual Studio Code is your preferred text editor)``
 
 #### License Info
 MIT License
