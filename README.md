@@ -9,8 +9,8 @@
 To start using this project use the following commands;
 - `git clone https://github.com/abdulmoha/resortWebsite`
 - `resortWebsite`
-- `atom .``
-- `code . [//]: # (this is if Visual Studio Code is your preferred text editor)``
+- `atom .`
+- `code . [//]: # (this is if Visual Studio Code is your preferred text editor)`
 
 #### License Info
 MIT License
